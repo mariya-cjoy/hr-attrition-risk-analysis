@@ -12,14 +12,6 @@ Total Employees: 1470
 
 ---
 
-## Tools Used
-
-SQL (PostgreSQL)
-Python (Pandas)
-VS Code
-GitHub
-
----
 
 ## Project Workflow
 
@@ -27,7 +19,6 @@ GitHub
 2. Attrition analysis by department, salary band, overtime
 3. Rule-based Attrition Risk Score Model
 4. Risk ranking using SQL window functions
-5. Validation of SQL logic using Python
 
 ---
 
@@ -82,5 +73,6 @@ The risk scoring logic was validated using a Python script to ensure SQL and Pyt
 Build automated data pipeline using Python + FastAPI
 
 Create interactive Power BI dashboard
+
 
 Build machine learning attrition prediction model
